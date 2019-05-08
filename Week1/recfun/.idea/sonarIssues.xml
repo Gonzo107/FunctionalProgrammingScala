@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$PROJECT_DIR$/../example/src/main/scala/example/Lists.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../example/src/test/scala/example/ListsSuite.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/recfun/Main.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/recfun/Tests.sc">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../donald-prueba/src/test/java/dominio/integracion/BibliotecarioTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../../Proteccion/Modulo-actualizacion-legado/modulo_act_legado_back/applications/app-service/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../../Proteccion/Modulo-actualizacion-legado/modulo_act_legado_back/applications/app-service/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../../Proteccion/Modulo-actualizacion-legado/modulo_act_legado_back/infraestructure/entry-points/async-command-handlers/src/main/java/co/com/proteccion/apolo/async/dto/CrearContactoDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../../Proteccion/Modulo-actualizacion-legado/modulo_act_legado_back/infraestructure/entry-points/async-command-handlers/src/main/java/co/com/proteccion/apolo/async/executors/command/CrearContactoCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
